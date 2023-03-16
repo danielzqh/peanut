@@ -1,0 +1,5 @@
+values = input()
+list = values.split(',')
+tup = tuple(list)
+print(list)
+print(tup)
